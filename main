@@ -1,18 +1,5 @@
-{
-  "passwords": [
-    {
-      P": "TEST DEAR"
-    },
-    {
-      "P": "Augustine x"
-     
-    },
-    {
-      "P": "VIA HTTPS!"
-    },
-      {
-      "P": "AUG"
-      
-    }
-  ]
-}
+	"passwords": {
+			"Name": "OMG DEAR",
+      "Name": "AUGUSTINE",
+      "Name": "HUNKS",
+      }
